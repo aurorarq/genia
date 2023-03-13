@@ -15,4 +15,4 @@ Artificial intelligence (AI) systems are already part of our daily lives, making
 
 ## Funding
 
-This project is funded by the [University of Córdoba](https://www.uco.es/) within its Annual Research Plan (2022), for a 1-year period (Academic course 2022/2023).
+This project is funded by the [University of Córdoba](https://www.uco.es/) within its Annual Research Plan (2022), for a 1-year period (Academic year 2022/2023).
