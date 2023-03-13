@@ -11,7 +11,7 @@ Artificial intelligence (AI) systems are already part of our daily lives, making
 
 ## Results
 
-- [Ciencia Violeta](http://www.uco.es/investigacion/ucci/es/noticias-gen/item/4035-la-uco-organiza-el-i-encuentro-cientifico-sobre-investigacion-con-perfectiva-de-genero): 1st Scientific Meeting on Research with a Gender Perspective (Córdoba, 14th February 2023)
+- [Ciencia Violeta](https://github.com/aurorarq/genia/tree/main/uco-cienciavioleta): 1st Scientific Meeting on Research with a Gender Perspective (Córdoba, 14th February 2023)
 
 ## Funding
 
