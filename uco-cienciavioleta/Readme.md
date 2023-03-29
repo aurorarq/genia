@@ -2,6 +2,8 @@
 
 This folder contains the additional material of the paper "Explainable artificial intelligence for the detection and analysis of gender bias in machine learning models". This work was presented at the 1st Scientific Meeting on Research with a Gender Perspective organised by the University of Córdoba on 14th February 2023.
 
+The video of the oral presentation (in Spanish) is available [here](https://youtu.be/g_8RY8QrkVc).
+
 The content of the folder is:
 
 - Slides used for oral presentation.
