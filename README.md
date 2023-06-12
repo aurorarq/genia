@@ -8,6 +8,7 @@ Artificial intelligence (AI) systems are already part of our daily lives, making
 
 - Talk at European Researcher's Night - Artificial Intelligence: Can we trust it? (Córdoba, 1st October 2022)
 - Talk at International Day of Women and Girls in Science (11F) - Asking artificial intelligence to explain (Córdoba, 31st January 2023)
+- Tutorial at the [EuADS Summer School Data Science for Explainable and Trustworthy AI](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-913/) (Luxembourg, 8th June 2023) - The slides and code examples are available on a dedicated [repository](https://github.com/aurorarq/euads-genderbias).
 
 ## Results
 
