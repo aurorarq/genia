@@ -13,6 +13,7 @@ Artificial intelligence (AI) systems are already part of our daily lives, making
 ## Results
 
 - [Ciencia Violeta](https://github.com/aurorarq/genia/tree/main/uco-cienciavioleta): 1st Scientific Meeting on Research with a Gender Perspective (Córdoba, 14th February 2023)
+- Workshop paper: Exploring gender bias in misclassification with clustering and local explanations. 5th International Workshop on eXplainable Knowledge Discovery in Data Mining organised as part of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (Turin, 18th September 2023). Supplementary material available on a dedicated [repository](https://github.com/aurorarq/xkdd23-genderbias).
 
 ## Funding
 
